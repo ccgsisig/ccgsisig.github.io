@@ -88,7 +88,6 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  java
   x64-mingw-ucrt
   x64-mingw32
   x86-mingw32
